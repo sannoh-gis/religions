@@ -1,0 +1,34 @@
+NAME,christian_num,buddhist_num,jewish_num,muslim_num,hindu_num,sikh_num
+Southwark,137,1,0,7,1,1
+Croydon,116,0,2,3,1,0
+Westminster,105,3,9,5,1,0
+Barnet,103,0,21,4,2,0
+Lambeth,101,0,0,3,0,0
+Waltham Forest,101,0,2,12,3,1
+Wandsworth,91,1,0,5,2,1
+Ealing,90,1,1,9,6,12
+Camden,85,1,5,6,0,0
+Lewisham,82,0,1,0,1,0
+Hackney,81,0,8,9,0,0
+Brent,79,1,4,9,9,0
+Bromley,77,0,1,0,0,0
+Islington,74,2,0,5,0,0
+Newham,74,0,0,11,4,3
+Greenwich,71,0,0,1,0,0
+Enfield,71,0,1,3,0,1
+Haringey,71,0,2,3,1,0
+Richmond upon Thames,68,0,1,0,0,0
+Tower Hamlets,68,1,4,16,1,2
+Kensington and Chelsea,64,0,2,3,0,1
+Hounslow,63,0,1,2,0,1
+Sutton,60,0,1,1,0,0
+Bexley,58,0,0,1,0,1
+Harrow,57,0,4,1,3,0
+Merton,55,2,0,5,2,0
+Havering,54,0,1,0,0,0
+Hammersmith and Fulham,51,0,0,2,0,0
+City of London,47,0,1,0,0,0
+Hillingdon,46,0,0,0,0,0
+Barking and Dagenham,46,0,1,0,0,1
+Redbridge,44,0,4,1,0,1
+Kingston upon Thames,36,0,0,1,0,1
